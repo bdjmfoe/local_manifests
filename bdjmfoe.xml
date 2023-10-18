@@ -1,6 +1,6 @@
 <manifest>
   <remote name="bdjmfoe" fetch="https://github.com/bdjmfoe/" />
-    <project remote="bdjmfoe" name="" revision="" path="device/realme/RMX1801" />
-    <project remote="bdjmfoe" name="" revision="" path="vendor/realme" />
-    <project remote="bdjmfoe" name="" revision="" path="kernel/realme/sdm660" />
+    <project remote="bdjmfoe" name="qt_device_rilmitupero" revision="main" path="device/realme/RMX1801" />
+    <project remote="bdjmfoe" name="qt_vendor_rilmitupero" revision="main" path="vendor/realme" />
+    <project remote="bdjmfoe" name="qt_kernel_rilmitupero" revision="main" path="kernel/realme/sdm660" />
 </manifest>
