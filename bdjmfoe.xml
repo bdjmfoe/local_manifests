@@ -3,8 +3,9 @@
     <project remote="bdjmfoe" name="qt_device_rilmitupero" revision="main" path="device/realme/RMX1801" />
     <project remote="bdjmfoe" name="qt_vendor_rilmitupero" revision="main" path="vendor/realme" />
     <project remote="bdjmfoe" name="qt_kernel_rilmitupero" revision="main" path="kernel/realme/sdm660" />
-  <remove-project name="LineageOS/android_system_core" />
+  <remove-project name="LineageOS/android_bootable_recovery" path="bootable/recovery" />
+  <remove-project name="LineageOS/android_system_core" path="system/core" />
     <project remote="bdjmfoe" name="qt_system_core" revision="lineage-17.1" path="system/core" />
-  <remove-project name="LineageOS/android_vendor_lineage" />
+  <remove-project name="LineageOS/android_vendor_lineage" path="vendor/lineage" />
     <project remote="bdjmfoe" name="qt_vendor_lineage" revision="lineage-17.1" path="vendor/lineage" />
 </manifest>
